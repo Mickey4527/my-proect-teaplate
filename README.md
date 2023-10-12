@@ -1,1 +1,1 @@
-# my-proect-teaplate
+# my-proect-template
